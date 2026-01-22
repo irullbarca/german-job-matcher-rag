@@ -1,0 +1,29 @@
+Job Title: Product Data Analyst (m/f/d)
+Location: Cologne, Germany
+Employment Type: Full-time
+
+Company Description:
+We are an e-commerce company optimizing digital products through data insights.
+
+Responsibilities:
+- Analyze product usage data
+- Define and track KPIs
+- Support A/B testing initiatives
+- Communicate insights to product teams
+
+Requirements:
+- 2+ years of experience as a Data Analyst
+- Strong SQL skills
+- Experience with product analytics
+- Knowledge of statistics and experimentation
+- Data visualization skills
+
+Nice to Have:
+- Experience with Google Analytics
+- Python for analysis
+
+Salary:
+€65,000 – €80,000 per year
+
+Keywords:
+Product Analyst, SQL, A/B Testing, Cologne

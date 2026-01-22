@@ -1,0 +1,28 @@
+Job Title: Analytics Engineer (m/f/d)
+Location: Remote (EU)
+Employment Type: Full-time
+
+Company Description:
+We are a fully remote European company building modern analytics platforms.
+
+Responsibilities:
+- Build analytics models using dbt
+- Transform raw data into analytics-ready tables
+- Work closely with data analysts and stakeholders
+- Maintain documentation and data quality checks
+
+Requirements:
+- Experience with SQL and data modeling
+- Experience with dbt
+- Knowledge of modern data stacks
+- Familiarity with cloud data warehouses
+
+Nice to Have:
+- Python experience
+- Experience with Looker or Tableau
+
+Salary:
+€70,000 – €90,000 per year
+
+Keywords:
+Analytics Engineer, dbt, SQL, Remote

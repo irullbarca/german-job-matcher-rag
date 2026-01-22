@@ -1,0 +1,29 @@
+Job Title: Frontend Engineer – React (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We create modern web applications with a strong focus on user experience.
+
+Responsibilities:
+- Develop frontend applications using React
+- Collaborate with designers and backend engineers
+- Optimize performance and accessibility
+- Write clean and maintainable code
+
+Requirements:
+- 3+ years of frontend development experience
+- Strong JavaScript and React skills
+- Experience with HTML and CSS
+- Familiarity with REST APIs
+- Understanding of responsive design
+
+Nice to Have:
+- TypeScript experience
+- Knowledge of testing frameworks
+
+Salary:
+€65,000 – €85,000 per year
+
+Keywords:
+Frontend Engineer, React, JavaScript, Berlin

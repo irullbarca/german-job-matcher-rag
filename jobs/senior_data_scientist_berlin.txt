@@ -1,0 +1,31 @@
+Job Title: Senior Data Scientist (m/w/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We are a leading digital platform company using data science to optimize large-scale products and customer experiences.
+
+Responsibilities:
+- Lead end-to-end data science projects
+- Build and deploy machine learning models
+- Perform advanced statistical analysis
+- Mentor junior data scientists
+- Collaborate with engineering and product teams
+
+Requirements:
+- 5+ years of experience in Data Science
+- Strong Python skills (Pandas, NumPy, Scikit-learn)
+- Experience with SQL and large datasets
+- Solid understanding of machine learning algorithms
+- Experience communicating insights to stakeholders
+
+Nice to Have:
+- Experience with deep learning
+- Cloud platforms (AWS or GCP)
+- German language skills
+
+Salary:
+€85,000 – €110,000 per year
+
+Keywords:
+Senior Data Scientist, Python, Machine Learning, Statistics, Berlin

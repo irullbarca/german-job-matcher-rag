@@ -1,0 +1,29 @@
+Job Title: Cloud Engineer – AWS (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We provide cloud-native solutions for enterprise customers.
+
+Responsibilities:
+- Design and manage AWS infrastructure
+- Implement security and monitoring solutions
+- Automate deployments using Infrastructure as Code
+- Support development teams with cloud expertise
+
+Requirements:
+- 3+ years of experience as a Cloud Engineer
+- Strong AWS knowledge (EC2, S3, RDS, IAM)
+- Experience with Terraform or CloudFormation
+- Linux administration skills
+- Networking fundamentals
+
+Nice to Have:
+- AWS certifications
+- Experience with Kubernetes
+
+Salary:
+€78,000 – €98,000 per year
+
+Keywords:
+Cloud Engineer, AWS, Terraform, Berlin

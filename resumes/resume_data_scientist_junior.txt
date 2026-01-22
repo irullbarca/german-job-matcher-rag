@@ -1,0 +1,40 @@
+Name: Ankit Sharma
+Location: Berlin, Germany
+Email: ankit.sharma@email.com
+LinkedIn: linkedin.com/in/ankitsharma
+Work Authorization: EU Blue Card Holder
+
+Professional Summary:
+Junior Data Scientist with 2 years of experience in data analysis and machine learning.
+Strong background in Python, statistics, and data visualization.
+Experienced in working with cross-functional teams and delivering data-driven insights.
+
+Technical Skills:
+- Programming: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Databases: SQL (PostgreSQL, MySQL)
+- Machine Learning: Regression, Classification, Clustering
+- Tools: Jupyter Notebook, Git, Excel
+- Cloud: Basic AWS (EC2, S3)
+
+Professional Experience:
+
+Data Analyst
+ABC Analytics GmbH, Berlin
+Jan 2023 – Present
+- Analyzed large datasets to identify trends and patterns
+- Built machine learning models for customer segmentation
+- Created dashboards for business stakeholders
+- Collaborated with product and engineering teams
+
+Education:
+Master of Science in Data Science
+Technical University of Berlin
+2021 – 2023
+
+Languages:
+- English: Fluent
+- German: Basic (A2)
+
+Certifications:
+- Google Data Analytics Certificate

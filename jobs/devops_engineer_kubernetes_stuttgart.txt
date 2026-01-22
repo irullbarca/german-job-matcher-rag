@@ -1,0 +1,30 @@
+Job Title: DevOps Engineer (m/f/d)
+Location: Stuttgart, Germany
+Employment Type: Full-time
+
+Company Description:
+We develop high-performance software solutions for the automotive industry.
+
+Responsibilities:
+- Design and maintain CI/CD pipelines
+- Manage cloud infrastructure and deployments
+- Work with container technologies
+- Ensure system reliability and scalability
+- Collaborate with development teams
+
+Requirements:
+- 3+ years of experience as a DevOps Engineer
+- Strong knowledge of Linux systems
+- Experience with Docker and Kubernetes
+- CI/CD tools (GitLab CI, Jenkins)
+- Infrastructure as Code (Terraform)
+
+Nice to Have:
+- Cloud experience (AWS or Azure)
+- Monitoring tools (Prometheus, Grafana)
+
+Salary:
+€75,000 – €95,000 per year
+
+Keywords:
+DevOps, Kubernetes, Docker, CI/CD, Stuttgart

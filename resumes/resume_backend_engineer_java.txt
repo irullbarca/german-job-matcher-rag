@@ -1,0 +1,45 @@
+Name: Maria Keller
+Location: Munich, Germany
+Email: maria.keller@email.com
+GitHub: github.com/mariakeller
+Work Authorization: German Citizen
+
+Professional Summary:
+Backend Engineer with 5 years of professional experience developing scalable enterprise applications.
+Specialized in Java, Spring Boot, and microservices architectures.
+Strong focus on clean code, performance, and reliability.
+
+Technical Skills:
+- Programming: Java, Kotlin
+- Frameworks: Spring Boot, Spring MVC, Hibernate
+- APIs: REST, JSON
+- Databases: PostgreSQL, MongoDB
+- DevOps: Docker, CI/CD, Git
+- Cloud: AWS (EC2, RDS)
+
+Professional Experience:
+
+Senior Backend Engineer
+TechSolutions AG, Munich
+Mar 2020 – Present
+- Designed and implemented backend services using Java and Spring Boot
+- Developed REST APIs for internal and external clients
+- Worked on microservices-based architecture
+- Improved application performance and reduced latency by 25%
+- Mentored junior developers
+
+Backend Developer
+SoftWareHouse GmbH, Augsburg
+Jan 2018 – Feb 2020
+- Maintained and extended Java-based backend systems
+- Worked closely with frontend and QA teams
+- Participated in code reviews and agile ceremonies
+
+Education:
+Bachelor of Science in Computer Science
+University of Augsburg
+2014 – 2017
+
+Languages:
+- German: Native
+- English: Fluent

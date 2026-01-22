@@ -1,0 +1,32 @@
+Job Title: Data Engineer (m/f/d)
+Location: Hamburg, Germany
+Employment Type: Full-time
+
+Company Description:
+We operate large-scale data platforms for logistics and supply chain analytics.
+
+Responsibilities:
+- Build and maintain data pipelines
+- Process large datasets using Spark
+- Optimize ETL workflows
+- Collaborate with data scientists and analysts
+- Ensure data quality and reliability
+
+Requirements:
+- 3+ years of experience as a Data Engineer
+- Strong Python or Scala skills
+- Experience with Apache Spark
+- SQL and data warehousing knowledge
+- Experience with distributed systems
+
+Nice to Have:
+- Cloud platforms (AWS, GCP)
+- Experience with Airflow
+
+s
+
+Salary:
+€75,000 – €95,000 per year
+
+Keywords:
+Data Engineer, Spark, ETL, Hamburg

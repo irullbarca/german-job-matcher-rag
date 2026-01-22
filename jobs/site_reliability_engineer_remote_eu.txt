@@ -1,0 +1,28 @@
+Job Title: Site Reliability Engineer (m/f/d)
+Location: Remote (EU)
+Employment Type: Full-time
+
+Company Description:
+We operate highly available systems for international customers.
+
+Responsibilities:
+- Ensure reliability and uptime of production systems
+- Build monitoring and alerting solutions
+- Automate incident response
+- Collaborate with engineering teams
+
+Requirements:
+- Experience as SRE or DevOps Engineer
+- Linux and networking skills
+- Monitoring tools (Prometheus, Grafana)
+- CI/CD experience
+
+Nice to Have:
+- Kubernetes experience
+- Cloud platforms
+
+Salary:
+€80,000 – €100,000 per year
+
+Keywords:
+SRE, Reliability Engineering, Remote

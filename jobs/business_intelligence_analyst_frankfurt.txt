@@ -1,0 +1,29 @@
+Job Title: Business Intelligence Analyst (m/f/d)
+Location: Frankfurt am Main, Germany
+Employment Type: Full-time
+
+Company Description:
+We support financial decision-making through advanced business intelligence solutions.
+
+Responsibilities:
+- Develop BI dashboards and reports
+- Analyze financial and operational data
+- Work closely with business stakeholders
+- Maintain data models and KPIs
+
+Requirements:
+- 2+ years of experience in BI or analytics
+- Strong SQL skills
+- Experience with Power BI or Tableau
+- Business-oriented mindset
+- Data modeling knowledge
+
+Nice to Have:
+- Experience in finance or banking
+- Python for automation
+
+Salary:
+€65,000 – €85,000 per year
+
+Keywords:
+Business Intelligence, Power BI, SQL, Frankfurt

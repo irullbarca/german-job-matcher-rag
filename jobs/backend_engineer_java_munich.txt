@@ -1,0 +1,32 @@
+Job Title: Backend Engineer – Java (m/f/d)
+Location: Munich, Germany
+Employment Type: Full-time
+
+Company Description:
+Our company develops scalable enterprise software solutions for international clients.
+
+Responsibilities:
+- Design and implement backend services using Java
+- Develop RESTful APIs and microservices
+- Work closely with frontend developers and DevOps teams
+- Ensure high performance, security, and scalability
+- Write clean, maintainable, and well-documented code
+
+Requirements:
+- Bachelor’s degree in Computer Science or similar
+- 3+ years of professional experience in backend development
+- Strong knowledge of Java and Spring Boot
+- Experience with REST APIs and microservice architectures
+- Familiarity with SQL and NoSQL databases
+- Experience with Git and CI/CD pipelines
+
+Nice to Have:
+- Experience with Docker and Kubernetes
+- Knowledge of cloud environments (AWS preferred)
+- Basic knowledge of German
+
+Salary:
+€75,000 – €95,000 per year
+
+Keywords:
+Java, Backend, Spring Boot, Microservices, REST, Munich

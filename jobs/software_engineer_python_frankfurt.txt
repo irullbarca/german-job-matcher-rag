@@ -1,0 +1,32 @@
+Job Title: Software Engineer – Python (m/f/d)
+Location: Frankfurt am Main, Germany
+Employment Type: Full-time
+
+Company Description:
+We build financial software solutions for banks and fintech companies.
+
+Responsibilities:
+- Develop backend applications using Python
+- Design APIs and data processing services
+- Write unit and integration tests
+- Collaborate with cross-functional teams
+- Maintain existing systems and improve performance
+
+Requirements:
+- Bachelor’s degree in Computer Science or equivalent
+- 3+ years of experience in software development
+- Strong Python skills
+- Experience with FastAPI or Django
+- Knowledge of SQL databases
+- Experience with Linux environments
+
+Nice to Have:
+- Experience in fintech or banking
+- Knowledge of cloud services
+- Understanding of software security principles
+
+Salary:
+€70,000 – €90,000 per year
+
+Keywords:
+Python, Software Engineering, Backend, FastAPI, Frankfurt

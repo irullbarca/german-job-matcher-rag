@@ -1,0 +1,32 @@
+Job Title: Data Scientist (m/w/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We are a fast-growing technology company based in Berlin, focusing on data-driven solutions for digital products.
+
+Responsibilities:
+- Analyze large datasets to extract actionable insights
+- Build and evaluate machine learning models
+- Collaborate with product managers and engineers
+- Develop dashboards and reports for stakeholders
+- Apply statistical methods and data visualization techniques
+
+Requirements:
+- Bachelor’s or Master’s degree in Computer Science, Statistics, Mathematics, or related field
+- 2+ years of experience as a Data Scientist
+- Strong knowledge of Python, Pandas, NumPy, and Scikit-learn
+- Experience with SQL and relational databases
+- Knowledge of machine learning algorithms
+- Experience with data visualization tools (Tableau, Power BI, or Matplotlib)
+
+Nice to Have:
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Knowledge of deep learning frameworks (TensorFlow, PyTorch)
+- German language skills are a plus but not required
+
+Salary:
+€70,000 – €90,000 per year
+
+Keywords:
+Data Science, Machine Learning, Python, SQL, Statistics, Berlin

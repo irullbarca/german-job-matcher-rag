@@ -1,0 +1,28 @@
+Job Title: Platform Engineer (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We provide internal developer platforms for high-growth technology companies.
+
+Responsibilities:
+- Build and maintain Kubernetes platforms
+- Automate infrastructure and deployments
+- Improve developer experience
+- Collaborate with security and DevOps teams
+
+Requirements:
+- Strong Kubernetes experience
+- Linux and networking fundamentals
+- Infrastructure as Code (Terraform)
+- CI/CD pipeline experience
+
+Nice to Have:
+- Cloud platforms (AWS, GCP)
+- Observability tools (Prometheus, Grafana)
+
+Salary:
+€85,000 – €105,000 per year
+
+Keywords:
+Platform Engineer, Kubernetes, Berlin

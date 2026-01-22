@@ -1,0 +1,31 @@
+Job Title: Senior Backend Engineer – Java (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We build large-scale distributed systems for enterprise and public-sector customers.
+
+Responsibilities:
+- Design and implement backend services using Java
+- Build scalable microservices architectures
+- Lead technical design discussions
+- Review code and mentor engineers
+- Collaborate with DevOps teams
+
+Requirements:
+- 6+ years of backend engineering experience
+- Strong Java and Spring Boot expertise
+- Microservices and REST API experience
+- SQL and NoSQL databases
+- Experience with CI/CD pipelines
+
+Nice to Have:
+- Kubernetes experience
+- Cloud-native architecture knowledge
+- German language skills
+
+Salary:
+€90,000 – €115,000 per year
+
+Keywords:
+Senior Backend Engineer, Java, Spring Boot, Berlin

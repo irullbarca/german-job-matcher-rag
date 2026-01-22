@@ -1,0 +1,28 @@
+Job Title: AI Research Engineer (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We work on cutting-edge AI research and applied machine learning systems.
+
+Responsibilities:
+- Research and implement machine learning algorithms
+- Train and evaluate deep learning models
+- Work with large datasets
+- Publish internal research reports
+
+Requirements:
+- Strong Python skills
+- Experience with PyTorch or TensorFlow
+- Solid understanding of ML fundamentals
+- Degree in Computer Science or related field
+
+Nice to Have:
+- NLP or Computer Vision experience
+- Research publications
+
+Salary:
+€85,000 – €110,000 per year
+
+Keywords:
+AI Engineer, Research, PyTorch, Berlin

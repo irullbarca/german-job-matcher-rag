@@ -1,0 +1,31 @@
+Job Title: Backend Engineer – Python (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We are a Berlin-based SaaS company building scalable backend systems for digital platforms used across Europe.
+
+Responsibilities:
+- Develop backend services using Python
+- Design REST and GraphQL APIs
+- Work with relational and NoSQL databases
+- Collaborate with frontend, DevOps, and product teams
+- Ensure code quality through testing and reviews
+
+Requirements:
+- 3+ years of backend development experience
+- Strong Python skills
+- Experience with FastAPI or Django
+- Knowledge of SQL databases (PostgreSQL preferred)
+- Familiarity with Linux and Git
+
+Nice to Have:
+- Experience with Docker
+- Cloud platforms (AWS or GCP)
+- Basic knowledge of German
+
+Salary:
+€70,000 – €90,000 per year
+
+Keywords:
+Backend Engineer, Python, FastAPI, Berlin

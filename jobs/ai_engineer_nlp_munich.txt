@@ -1,0 +1,31 @@
+Job Title: AI Engineer – NLP (m/f/d)
+Location: Munich, Germany
+Employment Type: Full-time
+
+Company Description:
+We build AI-driven products using natural language processing technologies.
+
+Responsibilities:
+- Develop NLP models and pipelines
+- Train and fine-tune deep learning models
+- Work with large text datasets
+- Deploy AI models to production
+- Collaborate with ML engineers and researchers
+
+Requirements:
+- Degree in Computer Science or AI
+- Strong Python skills
+- Experience with NLP techniques
+- Experience with PyTorch or TensorFlow
+- Understanding of machine learning fundamentals
+
+Nice to Have:
+- Experience with transformers and LLMs
+- Cloud deployment experience
+- Research background
+
+Salary:
+€80,000 – €100,000 per year
+
+Keywords:
+AI Engineer, NLP, Python, PyTorch, Munich

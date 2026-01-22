@@ -1,0 +1,28 @@
+Job Title: Data Governance Analyst (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We ensure responsible and compliant use of data across the organization.
+
+Responsibilities:
+- Define and maintain data governance policies
+- Support data quality initiatives
+- Work with legal and compliance teams
+- Document data processes and standards
+
+Requirements:
+- Experience in data governance or data management
+- Knowledge of data privacy regulations (GDPR)
+- Strong communication skills
+- SQL knowledge
+
+Nice to Have:
+- Experience in regulated industries
+- Data catalog tools
+
+Salary:
+€65,000 – €85,000 per year
+
+Keywords:
+Data Governance, GDPR, Berlin

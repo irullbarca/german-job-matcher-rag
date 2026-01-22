@@ -1,0 +1,28 @@
+Job Title: Software Engineer – Fullstack (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We develop digital products used by millions of users across Europe.
+
+Responsibilities:
+- Develop frontend and backend features
+- Work with React and modern JavaScript
+- Build backend APIs
+- Collaborate with designers and product managers
+
+Requirements:
+- 3+ years of software development experience
+- JavaScript and React skills
+- Backend experience (Python or Java)
+- Experience with REST APIs
+
+Nice to Have:
+- TypeScript experience
+- Cloud experience
+
+Salary:
+€70,000 – €90,000 per year
+
+Keywords:
+Fullstack Engineer, React, Berlin

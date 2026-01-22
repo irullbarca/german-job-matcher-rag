@@ -1,0 +1,44 @@
+Name: Rahul Mehta
+Location: Frankfurt am Main, Germany
+Email: rahul.mehta@email.com
+LinkedIn: linkedin.com/in/rahulmehta
+Work Authorization: EU Blue Card
+
+Professional Summary:
+Machine Learning Engineer with 4 years of experience building and deploying ML models in production.
+Strong background in Python, deep learning, and MLOps.
+Experienced in working with cloud platforms and scalable ML pipelines.
+
+Technical Skills:
+- Programming: Python
+- ML Frameworks: PyTorch, TensorFlow
+- Machine Learning: NLP, Classification, Model Optimization
+- MLOps: Model deployment, monitoring, CI/CD
+- Databases: SQL
+- Cloud: AWS (S3, EC2), Docker, Kubernetes
+
+Professional Experience:
+
+Machine Learning Engineer
+AI Innovations GmbH, Frankfurt
+Apr 2021 – Present
+- Developed and deployed machine learning models to production
+- Built automated ML pipelines
+- Monitored model performance and retrained models
+- Collaborated with data scientists and backend engineers
+
+Data Scientist
+SmartData Solutions, Remote
+Jan 2019 – Mar 2021
+- Built predictive models for business use cases
+- Performed feature engineering and data preprocessing
+- Communicated results to non-technical stakeholders
+
+Education:
+Bachelor of Technology in Computer Science
+Indian Institute of Technology
+2014 – 2018
+
+Languages:
+- English: Fluent
+- German: Intermediate (B1)

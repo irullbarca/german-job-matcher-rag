@@ -1,0 +1,31 @@
+Job Title: Data Analyst (m/f/d)
+Location: Hamburg, Germany
+Employment Type: Full-time
+
+Company Description:
+We are a data-driven organization in the logistics and supply chain sector.
+
+Responsibilities:
+- Analyze business data and create reports
+- Build dashboards to support decision-making
+- Work with stakeholders to define KPIs
+- Perform ad-hoc analysis and data validation
+- Maintain and optimize SQL queries
+
+Requirements:
+- Degree in Business Analytics, Statistics, or related field
+- 2+ years of experience as a Data Analyst
+- Strong SQL skills
+- Experience with Excel and BI tools (Power BI, Tableau)
+- Basic Python knowledge is a plus
+
+Nice to Have:
+- Experience in logistics or supply chain
+- Knowledge of data warehousing concepts
+- German language skills preferred
+
+Salary:
+€60,000 – €75,000 per year
+
+Keywords:
+Data Analysis, SQL, Power BI, Tableau, Hamburg

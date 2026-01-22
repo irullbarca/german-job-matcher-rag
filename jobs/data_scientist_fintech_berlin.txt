@@ -1,0 +1,30 @@
+Job Title: Data Scientist – FinTech (m/f/d)
+Location: Berlin, Germany
+Employment Type: Full-time
+
+Company Description:
+We are a fast-growing FinTech company using data science to improve financial products and risk management.
+
+Responsibilities:
+- Build predictive models for financial data
+- Analyze large transactional datasets
+- Collaborate with engineers and product managers
+- Communicate insights to business stakeholders
+
+Requirements:
+- 3+ years of experience as a Data Scientist
+- Strong Python skills
+- Experience with Pandas, NumPy, Scikit-learn
+- Solid statistics background
+- SQL experience
+
+Nice to Have:
+- Experience in finance or fintech
+- Machine learning model deployment
+- Experience with cloud platforms
+
+Salary:
+€75,000 – €95,000 per year
+
+Keywords:
+Data Scientist, FinTech, Python, Berlin

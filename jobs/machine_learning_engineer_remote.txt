@@ -1,0 +1,32 @@
+Job Title: Machine Learning Engineer (m/w/d)
+Location: Germany (Remote)
+Employment Type: Full-time
+
+Company Description:
+We specialize in AI-powered products used by millions of users worldwide.
+
+Responsibilities:
+- Design, train, and deploy machine learning models
+- Collaborate with data scientists and software engineers
+- Optimize model performance and scalability
+- Implement ML pipelines and automation
+- Monitor models in production
+
+Requirements:
+- Degree in Computer Science, AI, or related field
+- 3+ years of experience in machine learning engineering
+- Strong Python programming skills
+- Experience with PyTorch or TensorFlow
+- Knowledge of MLOps concepts
+- Experience deploying models to production
+
+Nice to Have:
+- Experience with Kubernetes and Docker
+- Cloud experience (AWS, GCP)
+- Knowledge of NLP or Computer Vision
+
+Salary:
+€80,000 – €105,000 per year
+
+Keywords:
+Machine Learning, Python, MLOps, Deep Learning, Remote
