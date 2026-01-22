@@ -1,3 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-orange)
+![LLM](https://img.shields.io/badge/LLM-Local%20(Ollama)-purple)
+![FAISS](https://img.shields.io/badge/Vector%20DB-FAISS-success)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Semantic%20Search-informational)
+![Explainable AI](https://img.shields.io/badge/AI-Explainable-important)
+![Privacy](https://img.shields.io/badge/Privacy-Local%20Inference-brightgreen)
+
+
+
 # 🇩🇪 German Resume ↔ Job Matcher  
 ### RAG (FAISS) + Local LLM (Ollama) | Berlin & EU Focus
 
